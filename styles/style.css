@@ -8,7 +8,7 @@
 :root{
     --cor-preta: black;
     --cor-branca: #f6f6f6;
-    --cor-principal:rgb(226, 43, 43);
+    --cor-principal:black;
     --cor-principalHover: rgba(230, 117, 117, 0.31);
 }
 
